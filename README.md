@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarahVeritas
 - 👀 I’m interested in manga, romance and psychology
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adlinadesu000@gmail.com
 
